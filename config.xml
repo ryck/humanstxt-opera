@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" id="http://ryck.me/code/humanstxt" version="1.0" network="public private">
+	<name>humanstxt</name>
+	<description>Shows an human icon in the awesomebar if humans.txt is found in the current website</description>
+	<author href="http://ryck.me/" email="info@ryck.me">Ricardo Gonzalez</author>
+  <license href="http://www.opensource.org/licenses/mit-license.php">
+  Licensed under the MIT license
+  </license>	
+	<icon src="icons/icon-64.png"/>
+  <access origin="*" subdomains="true"/>
+</widget>
